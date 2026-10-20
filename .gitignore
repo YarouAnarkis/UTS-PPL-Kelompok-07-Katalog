@@ -1,0 +1,11 @@
+# Dokumen Soal dan Lampiran Pribadi
+*.pdf
+*.docx
+Lampiran uts PPL.docx
+Soal UTS Praktikum PPL RKS 3 ABC 2026.pdf
+
+# File sementara sistem & OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.tmp
